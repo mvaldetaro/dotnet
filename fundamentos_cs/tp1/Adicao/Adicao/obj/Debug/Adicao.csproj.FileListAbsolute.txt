@@ -1,0 +1,7 @@
+C:\Users\magno.oliveira\Source\Repos\Adicao\Adicao\bin\Debug\Adicao.exe.config
+C:\Users\magno.oliveira\Source\Repos\Adicao\Adicao\bin\Debug\Adicao.exe
+C:\Users\magno.oliveira\Source\Repos\Adicao\Adicao\bin\Debug\Adicao.pdb
+C:\Users\magno.oliveira\Source\Repos\Adicao\Adicao\obj\Debug\Adicao.csprojResolveAssemblyReference.cache
+C:\Users\magno.oliveira\Source\Repos\Adicao\Adicao\obj\Debug\Adicao.csproj.CoreCompileInputs.cache
+C:\Users\magno.oliveira\Source\Repos\Adicao\Adicao\obj\Debug\Adicao.exe
+C:\Users\magno.oliveira\Source\Repos\Adicao\Adicao\obj\Debug\Adicao.pdb

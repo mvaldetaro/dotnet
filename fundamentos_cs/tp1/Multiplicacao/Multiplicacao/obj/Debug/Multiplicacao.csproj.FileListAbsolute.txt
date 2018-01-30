@@ -1,0 +1,7 @@
+C:\Users\magno.oliveira\Source\Repos\Multiplicacao\Multiplicacao\bin\Debug\Multiplicacao.exe.config
+C:\Users\magno.oliveira\Source\Repos\Multiplicacao\Multiplicacao\bin\Debug\Multiplicacao.exe
+C:\Users\magno.oliveira\Source\Repos\Multiplicacao\Multiplicacao\bin\Debug\Multiplicacao.pdb
+C:\Users\magno.oliveira\Source\Repos\Multiplicacao\Multiplicacao\obj\Debug\Multiplicacao.csprojResolveAssemblyReference.cache
+C:\Users\magno.oliveira\Source\Repos\Multiplicacao\Multiplicacao\obj\Debug\Multiplicacao.csproj.CoreCompileInputs.cache
+C:\Users\magno.oliveira\Source\Repos\Multiplicacao\Multiplicacao\obj\Debug\Multiplicacao.exe
+C:\Users\magno.oliveira\Source\Repos\Multiplicacao\Multiplicacao\obj\Debug\Multiplicacao.pdb

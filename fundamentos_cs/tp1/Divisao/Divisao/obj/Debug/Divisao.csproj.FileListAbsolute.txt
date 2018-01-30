@@ -1,0 +1,7 @@
+C:\Users\magno.oliveira\Source\Repos\Divisao\Divisao\bin\Debug\Divisao.exe.config
+C:\Users\magno.oliveira\Source\Repos\Divisao\Divisao\bin\Debug\Divisao.exe
+C:\Users\magno.oliveira\Source\Repos\Divisao\Divisao\bin\Debug\Divisao.pdb
+C:\Users\magno.oliveira\Source\Repos\Divisao\Divisao\obj\Debug\Divisao.csprojResolveAssemblyReference.cache
+C:\Users\magno.oliveira\Source\Repos\Divisao\Divisao\obj\Debug\Divisao.csproj.CoreCompileInputs.cache
+C:\Users\magno.oliveira\Source\Repos\Divisao\Divisao\obj\Debug\Divisao.exe
+C:\Users\magno.oliveira\Source\Repos\Divisao\Divisao\obj\Debug\Divisao.pdb
