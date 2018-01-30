@@ -1,0 +1,7 @@
+C:\Users\magno.oliveira\Source\Repos\TP1\Subtracao\bin\Debug\Subtracao.exe.config
+C:\Users\magno.oliveira\Source\Repos\TP1\Subtracao\bin\Debug\Subtracao.exe
+C:\Users\magno.oliveira\Source\Repos\TP1\Subtracao\bin\Debug\Subtracao.pdb
+C:\Users\magno.oliveira\Source\Repos\TP1\Subtracao\obj\Debug\Subtracao.csprojResolveAssemblyReference.cache
+C:\Users\magno.oliveira\Source\Repos\TP1\Subtracao\obj\Debug\Subtracao.csproj.CoreCompileInputs.cache
+C:\Users\magno.oliveira\Source\Repos\TP1\Subtracao\obj\Debug\Subtracao.exe
+C:\Users\magno.oliveira\Source\Repos\TP1\Subtracao\obj\Debug\Subtracao.pdb
