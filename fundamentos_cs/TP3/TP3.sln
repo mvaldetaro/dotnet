@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gerenciador", "Gerenciador\Gerenciador.csproj", "{512D60FB-4140-448E-97DD-C474719CF2BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NiverRegister", "NiverRegister\NiverRegister.csproj", "{54839D22-949E-46D3-A57A-24C91CBCFA95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{512D60FB-4140-448E-97DD-C474719CF2BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{512D60FB-4140-448E-97DD-C474719CF2BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{512D60FB-4140-448E-97DD-C474719CF2BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{512D60FB-4140-448E-97DD-C474719CF2BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54839D22-949E-46D3-A57A-24C91CBCFA95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54839D22-949E-46D3-A57A-24C91CBCFA95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54839D22-949E-46D3-A57A-24C91CBCFA95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54839D22-949E-46D3-A57A-24C91CBCFA95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA1E4724-36F3-43E4-A2A3-0D8D541FBBDA}
+	EndGlobalSection
+EndGlobal

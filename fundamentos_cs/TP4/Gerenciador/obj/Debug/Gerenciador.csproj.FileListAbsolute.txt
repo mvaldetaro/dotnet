@@ -1,0 +1,9 @@
+c:\users\magno.oliveira\Source\Repos\TP4\Gerenciador\obj\Debug\Gerenciador.csprojResolveAssemblyReference.cache
+c:\users\magno.oliveira\Source\Repos\TP4\Gerenciador\obj\Debug\Gerenciador.csproj.CoreCompileInputs.cache
+c:\users\magno.oliveira\Source\Repos\TP4\Gerenciador\bin\Debug\Gerenciador.exe.config
+c:\users\magno.oliveira\Source\Repos\TP4\Gerenciador\bin\Debug\Gerenciador.exe
+c:\users\magno.oliveira\Source\Repos\TP4\Gerenciador\bin\Debug\Gerenciador.pdb
+c:\users\magno.oliveira\Source\Repos\TP4\Gerenciador\bin\Debug\Lib.dll
+c:\users\magno.oliveira\Source\Repos\TP4\Gerenciador\bin\Debug\Lib.pdb
+c:\users\magno.oliveira\Source\Repos\TP4\Gerenciador\obj\Debug\Gerenciador.exe
+c:\users\magno.oliveira\Source\Repos\TP4\Gerenciador\obj\Debug\Gerenciador.pdb
