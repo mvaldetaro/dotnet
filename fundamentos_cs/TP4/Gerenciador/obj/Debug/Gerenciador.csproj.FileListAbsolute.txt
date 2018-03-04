@@ -7,7 +7,10 @@ c:\users\magno.oliveira\Source\Repos\TP4\Gerenciador\bin\Debug\Lib.dll
 c:\users\magno.oliveira\Source\Repos\TP4\Gerenciador\bin\Debug\Lib.pdb
 c:\users\magno.oliveira\Source\Repos\TP4\Gerenciador\obj\Debug\Gerenciador.exe
 c:\users\magno.oliveira\Source\Repos\TP4\Gerenciador\obj\Debug\Gerenciador.pdb
+<<<<<<< HEAD
 C:\Users\Magno\Google Drive\ADS\dotNet\01_fundamentos_cs\dotnet\fundamentos_cs\TP4\Gerenciador\obj\Debug\Gerenciador.csprojResolveAssemblyReference.cache
 C:\Users\Magno\Google Drive\ADS\dotNet\01_fundamentos_cs\dotnet\fundamentos_cs\TP4\Gerenciador\obj\Debug\Gerenciador.csproj.CoreCompileInputs.cache
 C:\Users\Magno\Google Drive\ADS\dotNet\01_fundamentos_cs\dotnet\fundamentos_cs\TP4\Gerenciador\obj\Debug\Gerenciador.exe
 C:\Users\Magno\Google Drive\ADS\dotNet\01_fundamentos_cs\dotnet\fundamentos_cs\TP4\Gerenciador\obj\Debug\Gerenciador.pdb
+=======
+>>>>>>> 4fcfba6bc6fbb7f68792a89a58d0d761e3a402d6
