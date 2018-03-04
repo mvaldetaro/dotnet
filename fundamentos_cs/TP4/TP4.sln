@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gerenciador", "Gerenciador\Gerenciador.csproj", "{6BA85B52-C770-4FDB-84DE-3E7F3C4B5A6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NiverRegister", "Lib\NiverRegister.csproj", "{B9538C5A-24FF-422A-B6E1-0BD4ADD07FA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BA85B52-C770-4FDB-84DE-3E7F3C4B5A6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BA85B52-C770-4FDB-84DE-3E7F3C4B5A6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BA85B52-C770-4FDB-84DE-3E7F3C4B5A6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BA85B52-C770-4FDB-84DE-3E7F3C4B5A6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9538C5A-24FF-422A-B6E1-0BD4ADD07FA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9538C5A-24FF-422A-B6E1-0BD4ADD07FA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9538C5A-24FF-422A-B6E1-0BD4ADD07FA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9538C5A-24FF-422A-B6E1-0BD4ADD07FA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F54B4B85-3AA1-4BF5-AFB6-7A68032709E4}
+	EndGlobalSection
+EndGlobal

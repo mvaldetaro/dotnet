@@ -1,0 +1,9 @@
+C:\Users\magno.oliveira\Source\Repos\TP3\Gerenciador\bin\Debug\Gerenciador.exe.config
+C:\Users\magno.oliveira\Source\Repos\TP3\Gerenciador\bin\Debug\Gerenciador.exe
+C:\Users\magno.oliveira\Source\Repos\TP3\Gerenciador\bin\Debug\Gerenciador.pdb
+C:\Users\magno.oliveira\Source\Repos\TP3\Gerenciador\obj\Debug\Gerenciador.csprojResolveAssemblyReference.cache
+C:\Users\magno.oliveira\Source\Repos\TP3\Gerenciador\obj\Debug\Gerenciador.csproj.CoreCompileInputs.cache
+C:\Users\magno.oliveira\Source\Repos\TP3\Gerenciador\obj\Debug\Gerenciador.exe
+C:\Users\magno.oliveira\Source\Repos\TP3\Gerenciador\obj\Debug\Gerenciador.pdb
+C:\Users\magno.oliveira\Source\Repos\TP3\Gerenciador\bin\Debug\NiverRegister.dll
+C:\Users\magno.oliveira\Source\Repos\TP3\Gerenciador\bin\Debug\NiverRegister.pdb

@@ -1,0 +1,5 @@
+c:\users\magno.oliveira\Source\Repos\TP4\Lib\bin\Debug\Lib.dll
+c:\users\magno.oliveira\Source\Repos\TP4\Lib\bin\Debug\Lib.pdb
+c:\users\magno.oliveira\Source\Repos\TP4\Lib\obj\Debug\NiverRegister.csproj.CoreCompileInputs.cache
+c:\users\magno.oliveira\Source\Repos\TP4\Lib\obj\Debug\Lib.dll
+c:\users\magno.oliveira\Source\Repos\TP4\Lib\obj\Debug\Lib.pdb

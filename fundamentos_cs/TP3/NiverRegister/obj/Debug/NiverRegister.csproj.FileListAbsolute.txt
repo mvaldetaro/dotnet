@@ -1,0 +1,6 @@
+C:\Users\magno.oliveira\Source\Repos\TP3\NiverRegister\bin\Debug\NiverRegister.dll
+C:\Users\magno.oliveira\Source\Repos\TP3\NiverRegister\bin\Debug\NiverRegister.pdb
+C:\Users\magno.oliveira\Source\Repos\TP3\NiverRegister\obj\Debug\NiverRegister.csprojResolveAssemblyReference.cache
+C:\Users\magno.oliveira\Source\Repos\TP3\NiverRegister\obj\Debug\NiverRegister.csproj.CoreCompileInputs.cache
+C:\Users\magno.oliveira\Source\Repos\TP3\NiverRegister\obj\Debug\NiverRegister.dll
+C:\Users\magno.oliveira\Source\Repos\TP3\NiverRegister\obj\Debug\NiverRegister.pdb
